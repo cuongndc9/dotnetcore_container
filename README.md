@@ -17,6 +17,6 @@ $ docker run -it -p 5001:443 -p 5000:80 103cuong/dotnetcore_container-prod
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
+Discomfort is the currency of your dreams.
 🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
