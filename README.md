@@ -18,5 +18,5 @@ $ docker run -it -p 5001:443 -p 5000:80 103cuong/dotnetcore_container-prod
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "In the middle of difficulty lies opportunity." - Albert Einstein
+> "The only impossible journey is the one you never begin." - Tony Robbins
 <!-- INSPIRATIONAL_QUOTE_END -->
