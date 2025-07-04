@@ -18,5 +18,5 @@ $ docker run -it -p 5001:443 -p 5000:80 103cuong/dotnetcore_container-prod
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
