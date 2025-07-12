@@ -18,5 +18,5 @@ $ docker run -it -p 5001:443 -p 5000:80 103cuong/dotnetcore_container-prod
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
 <!-- INSPIRATIONAL_QUOTE_END -->
